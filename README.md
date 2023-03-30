@@ -2,6 +2,13 @@
 <h3 align="center">A passionate Tech Support Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
+An aspiring Technical Support Engineer , possessing excellent
+communication and troubleshooting skills along with a passion for
+customer service. Experienced in building and troubleshooting
+computer systems, networking, and providing technical support.
+Have a strong work ethic and the ability to quickly learn and apply
+new technologies and troubleshoot hardware and software issues
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika11srivastav&label=Profile%20views&color=0e75b6&style=flat" alt="anshika11srivastav" /> </p>
 
