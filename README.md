@@ -1,7 +1,7 @@
 <h1 align="center">Hi World 👋, I'm Anshika Srivastava</h1>
 <h3 align="center">A passionate Tech Support Engineer</h3>
 
-<img align="right" alt="coding" width="400" height="350px" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" alt="coding" width="350" height="350px" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p> An aspiring Technical Support Engineer , possessing excellent
 communication and troubleshooting skills along with a passion for
 customer service.  providing technical support.
